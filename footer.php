@@ -35,9 +35,9 @@
 
 <!--  Scripts-->
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="http://rocknside.com/wp-content/themes/rocknsidetheme/js/materialize.js"></script>
+<script src="http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/js/materialize.js"></script>
 <script src="https://apis.google.com/js/platform.js"></script>
-<script src="http://rocknside.com/wp-content/themes/rocknsidetheme/js/init.js"></script>
+<script src="http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/js/init.js"></script>
 
 </body>
 </html>

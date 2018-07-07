@@ -9,13 +9,13 @@
               if ( have_posts() ) {
               	while ( have_posts() ) {
               		the_post(); ?>
-              		
+
               		<div class="col s12 m12 l12">
                     <img src="<?php the_post_thumbnail_url(); ?> " class="center img-responsive" width="100%" alt="">
                   </div>
    					<h4 class="center"><?php echo the_title(); ?></h4>
    					<h6><?php echo the_date(); ?> | <?php the_author(); ?> </h6>
-   					         		    
+
                				<p><?php echo the_content(); ?></p>
                				<div><p><?php the_tags(); ?></p></div>
                   </div>
@@ -93,11 +93,11 @@
     </div>
   </div>
 </div>
-<?php include("http://rocknside.com/wp-content/themes/rocknsidetheme/seccion-rock.php");?>
+<?php include("http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/seccion-rock.php");?>
 <?php get_footer();?>
 <style>
 .card .card-image .card-title {
-    
+
     font-size: 15px;
 }
 

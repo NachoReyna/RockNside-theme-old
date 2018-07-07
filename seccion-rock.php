@@ -6,5 +6,5 @@
       </div>
     </div>
   </div>
-  <div class="parallax"><img src="http://rocknside.com/wp-content/themes/rocknsidetheme/img/rock1.jpeg" alt="Unsplashed background img 3"></div>
+  <div class="parallax"><img src="http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/img/rock1.jpeg" alt="Unsplashed background img 3"></div>
 </div>

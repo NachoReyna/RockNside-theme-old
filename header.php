@@ -16,7 +16,7 @@
   <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
   <link href="http://rocknside.com/wp-content/themes/rocknsidetheme/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="http://rocknside.com/wp-content/themes/rocknsidetheme/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  
+
   <script src="https://use.fontawesome.com/0e277ff907.js"></script>
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
@@ -51,9 +51,9 @@
             <li><a href="#">Contacto</a></li>
           </ul>
           <ul class="right hide-on-med-and-down">
-            <li><a href="#">è¢ƒQuienes somos?</a></li>
+            <li><a href="#">ÔøΩÔøΩÔøΩQuienes somos?</a></li>
           </ul> -->
-          
+
         <ul class="right hide-on-med-and-down">
           <li><a href="#">Corona Capital en RockNside</a></li>
         </ul>
@@ -66,7 +66,7 @@
         <ul class="right hide-on-med-and-down">
           <li><a href="/banda-mes">Banda del Mes</a></li>
         </ul>
-        
+
         <!-- <ul class="right hide-on-med-and-down">
           <li><a href="#">Generos</a></li>
         </ul> -->
@@ -169,7 +169,7 @@ nav ul a:hover {
   position: relative;
   max-height: 155px !important;
   max-width : 321px !important;
-  
+
   left: 0;
   right: 0;
   top: 0;
@@ -178,5 +178,5 @@ nav ul a:hover {
 }
 
   </style>
-  
+
 <?php wp_head(); ?>

@@ -1,27 +1,24 @@
 <?php get_header(); ?>
-
-<div id="index-banner" class="parallax-container">
-  <div class="section no-pad-bot">
-    <div class="container">
-        <br><br>
-        <h2 class="col s12 center titulos-dos grey darken-4 lighten-2-text">Este mes en RockNside</h2>
-      <div class="row center">
-        <a class="waves-effect waves-light btn" href="/road-hh">Hell and Heaven Fest</a>
-
-
-      </div>
-      <br><br>
-    </div>
-  </div>
-  <div class="parallax">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/elvis.jpg" alt="Unsplashed background img 1">
-  </div>
+<!-- <div id="index-banner" class="parallax-container">
+<div class="section no-pad-bot">
+<div class="container">
+<br><br>
+<h2 class="col s12 center titulos-dos grey darken-4 lighten-2-text">Este mes en RockNside</h2>
+<div class="row center">
+<a class="waves-effect waves-light btn" href="/road-hh">Hell and Heaven Fest</a>
 </div>
+<br><br>
+</div>
+</div>
+<div class="parallax">
+<img src="<?php echo get_template_directory_uri(); ?>/img/elvis.jpg" alt="Unsplashed background img 1">
+</div>
+</div> -->
 
 <div class=" white-text">
   <div class="container ">
-    
-    
+
+
    <div class="section ">
       <h2 class="black-text center titulos-dos">Noticias Recientes</h2>
           <div class="row">
@@ -49,7 +46,7 @@
                 <?php endif; ?>
         </div>
     </div>
-    
+
    <!-- <div class="section">
       <h2 class="black-text center titulos-dos">Conoce a la banda del mes</h2>
           <div class="row">
@@ -86,7 +83,7 @@
     </div>
   </div>
   <div class="parallax">
-    <img src="http://rocknside.com/wp-content/themes/rocknsidetheme/img/fest.png" alt="Unsplashed background img 2">
+    <img src="http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/img/fest.png" alt="Unsplashed background img 2">
   </div>
 </div>
 
@@ -112,7 +109,7 @@
     </div>
   </div>
   <div class="parallax">
-    <img src="http://rocknside.com/wp-content/themes/rocknsidetheme/img/coronabanner.png" alt="corona capital 2018">
+    <img src="http://localhost:8080/rocknside/wp-content/themes/rocknsidetheme/img/coronabanner.png" alt="corona capital 2018">
   </div>
 </div>
 
@@ -129,7 +126,7 @@
 </div>
 
 
-<?php include("http://rocknside.com/wp-content/themes/rocknsidetheme/seccion-rock.php"); ?>
+<?php include("seccion-rock.php"); ?>
 <?php get_footer(); ?>
 <style>
 .fondo-title{
